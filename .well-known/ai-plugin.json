@@ -10,7 +10,7 @@
     },
     "api": {
         "type": "openapi",
-        "url": "https://test-plugin.mutahhir.dev/openapi.yaml"
+        "url": "https://raw.githubusercontent.com/glennsarti/openapi-terraform-cloud/main/specifications/openapi-terraform-cloud.yaml"
     },
     "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg",
     "contact_email": "mutahhir.hayat@hashicorp.com",
