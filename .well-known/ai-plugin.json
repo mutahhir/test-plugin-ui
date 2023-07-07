@@ -1,0 +1,18 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Terraform Cloud",
+    "name_for_model": "tfc",
+    "description_for_human": "Manage your TFC",
+    "description_for_model": "Allows managing the user interface for TFC",
+    "auth": {
+        "type": "user_http",
+        "authorization_type": "bearer"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "https://test-plugin.mutahhir.dev/openapi.yaml"
+    },
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg",
+    "contact_email": "mutahhir.hayat@hashicorp.com",
+    "legal_info_url": "http://test-plugin.mutahhir.dev/legal"
+}
